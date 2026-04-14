@@ -1,0 +1,6 @@
+{
+  "name": "PrintReady",
+  "description": "Professional printable template generator for graph paper, dot grids, music staff, and custom columns. High-quality PDFs for bullet journaling and education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["PDF Generation", "Customizable Templates"]
+}
