@@ -1,6 +1,6 @@
 {
-  "name": "PrintReady",
-  "description": "Professional printable template generator for graph paper, dot grids, music staff, and custom columns. High-quality PDFs for bullet journaling and education.",
+  "name": "SimplePrintouts",
+  "description": "SimplePrintouts – Free Printable Paper & Planner Templates. Generate high-quality PDFs for grid paper, dot grids, music staff, and custom planners.",
   "requestFramePermissions": [],
   "majorCapabilities": ["PDF Generation", "Customizable Templates"]
 }
